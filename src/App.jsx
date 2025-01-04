@@ -49,6 +49,11 @@ function App() {
         <ImcTable data={data} imc={imc} info={info} infoClass={infoClass} resetCalc={resetCalc} />)}
     </div>
   )
+
 }
 
+{/* Calculadora IMC em JSX */}
+
 export default App
+
+
